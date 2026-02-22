@@ -1,5 +1,11 @@
 # Q2: Simple Calculator
 
+# Logic:
+# 1. Take two numbers from user.
+# 2. Perform addition, subtraction, multiplication, division, modulus and exponent.
+# 3. Display all results clearly.
+
+
 # Taking input from user
 try:
     num1 = int(input("Enter first number: "))

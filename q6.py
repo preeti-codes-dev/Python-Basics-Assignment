@@ -1,5 +1,14 @@
 # Q6: Grade Calculator
 
+
+# Logic:
+# 1. Take marks for 5 subjects.
+# 2. Calculate total and percentage.
+# 3. Assign grade based on percentage.
+# 4. Check if all subjects are >= 40 for pass.
+
+
+
 # Taking marks input
 m1 = int(input("Enter marks for Subject 1: "))
 m2 = int(input("Enter marks for Subject 2: "))

@@ -1,5 +1,13 @@
 # Q4: Age Calculator
 
+
+# Logic:
+# 1. Take birth year from user.
+# 2. Calculate current age using current year.
+# 3. Convert age into months, days, hours and minutes.
+# 4. Calculate years left to reach 100.
+
+
 # Taking birth year from user
 birth_year = int(input("Enter your birth year: "))
 

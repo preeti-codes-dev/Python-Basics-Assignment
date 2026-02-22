@@ -1,5 +1,16 @@
 # Q3: String Manipulator
 
+
+# Logic:
+# 1. Take a sentence from user.
+# 2. Count total characters (with spaces).
+# 3. Remove spaces and count characters.
+# 4. Count words using split().
+# 5. Convert to uppercase, lowercase and title case.
+# 6. Get first and last word.
+# 7. Reverse the sentence using slicing.
+
+
 # Taking input from the user
 sentence = input("Enter a sentence: ")
 

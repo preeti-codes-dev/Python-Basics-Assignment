@@ -1,5 +1,9 @@
 # Q1: Personal Bio Card
 
+# Logic:
+# 1. Store student details in variables.
+# 2. Print them in formatted box style.
+
 # Storing student details
 name = "Preeti Patil"
 age = 20
